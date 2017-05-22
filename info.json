@@ -1,0 +1,26 @@
+{
+    "caffe flavor": "NVIDIA",
+    "caffe version": "0.16.0",
+    "creation time": "2017-05-22 09:06:54.348301",
+    "dataset_id": "20170522-090243-ee9a",
+    "deploy file": "deploy.prototxt",
+    "digits version": "5.1-dev",
+    "framework": "caffe",
+    "id": "20170522-090654-f2e0",
+    "image dimensions": [
+        256,
+        256,
+        3
+    ],
+    "image resize mode": "half_crop",
+    "job id": "20170522-090654-f2e0",
+    "labels file": "labels.txt",
+    "mean file": "mean.binaryproto",
+    "model file": "original.prototxt",
+    "name": "Facebook Monitoring",
+    "snapshot file": "snapshot_iter_23670.caffemodel",
+    "solver file": "solver.prototxt",
+    "status": "Done",
+    "train_val file": "train_val.prototxt",
+    "username": "oscar"
+}
